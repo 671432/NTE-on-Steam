@@ -10,13 +10,13 @@ The .bat is simple and it just checks for if the game is running, writes a simpl
 
 ## How to use
 
-if your game is installed normaly on the C: drive - `C:\Program Files\Neverness To Everness\...`
-then the `.bat` file should work without needing any changes, otherwise, edit the `.bat` file to point to whatever location u have **NTE** installed at.
+if your game is installed normaly on the C: drive - `C:\Program Files\Neverness To Everness\...`<br />
+then the `.bat` file should work without needing any changes, otherwise, edit the `.bat` file to point to whatever location u have **NTE** installed at.<br />
 
-"Add a non-steam game"
-TARGET: `C:\Windows\System32\cmd.exe`
-START IN: `C:\point\to\folder\where\the\.bat\is\in`
-LAUNCH OPTIONS: `/c "C:\point\to\folder\where\the\.bat\is\in\NTE_steam.bat"`
-everything else is up to you.
-![image guide](ADD_TO_STEAM_GUIDE/NTE_STEAM_GUIDE.jpg)
+"Add a non-steam game"<br />
+TARGET: `C:\Windows\System32\cmd.exe`<br />
+START IN: `C:\point\to\folder\where\the\.bat\is\in`<br />
+LAUNCH OPTIONS: `/c "C:\point\to\folder\where\the\.bat\is\in\NTE_steam.bat"`<br />
+everything else is up to you.<br />
+![image guide](ADD_TO_STEAM_GUIDE/NTE_STEAM_GUIDE.jpg)<br />
 ![customization guide](ADD_TO_STEAM_GUIDE/NTE_STEAM_CUSTOMIZE_GUIDE.jpg)
