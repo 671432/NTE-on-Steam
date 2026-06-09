@@ -20,3 +20,6 @@ LAUNCH OPTIONS: `/c "C:\point\to\folder\where\the\.bat\is\in\NTE_steam.bat"`<br 
 everything else is up to you.<br />
 ![image guide](ADD_TO_STEAM_GUIDE/NTE_STEAM_GUIDE.jpg)<br />
 ![customization guide](ADD_TO_STEAM_GUIDE/NTE_STEAM_CUSTOMIZE_GUIDE.jpg)
+
+![CMD example](ADD_TO_STEAM_GUIDE/CMD_EXAMPLE.jpg)<br />
+![customization guide](ADD_TO_STEAM_GUIDE/STEAM_SHOWS_GAME.jpg)
