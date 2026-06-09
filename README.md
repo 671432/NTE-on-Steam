@@ -2,7 +2,7 @@
 
 ## Info
 
-NTE (Neverness to Everness) is not yet on steam as of when I made this, but I wanted steam to show when I'm playing it, so I made a .bat file to detect when the game is running, and steam opens this .bat rather then the actual game.
+NTE (Neverness to Everness) is not yet on steam as of when I made this, and because of the nature of this game (opening a launcher before letting u open the game) steam won't track that the game was launched and just stops showing u as being "in-game", but I wanted steam to show when I'm playing it, so I made a .bat file to detect when the game is running, and steam opens this .bat rather then the actual game.
 
 The .bat is simple and it just checks for if the game is running, writes a simple console line as an indicator, and automatically closes itself when the game is closed.
 
