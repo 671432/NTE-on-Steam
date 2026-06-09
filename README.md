@@ -8,7 +8,7 @@ The .bat is simple and it just checks for if the game is running, writes a simpl
 
 [cover_smaller.png](NTE_STEAM/cover_smaller.png) should be used as the cover on steam so that the downscaling doesn't make the final result pixelated.
 
-and for the small icon at the sidebar, just point to the actualy game.exe of gamelauncher.exe and it can grab the original icon.<br />
+and for the small icon at the sidebar, just point to the actual `game.exe` or `gamelauncher.exe` and it can grab the original icon.<br />
 ![icon customization guide](ADD_TO_STEAM_GUIDE/ICON_GUIDE.jpg)
 
 ## How to use
